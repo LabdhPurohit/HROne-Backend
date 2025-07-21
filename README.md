@@ -2,6 +2,9 @@
 
 This is a FastAPI backend for a simple e-commerce application, built for the HROne Backend Intern Hiring Task. It provides APIs for managing products and orders, using MongoDB as the database.
 
+## Link
+- http://35.223.135.62:8000
+
 ## Setup
 
 1. **Clone the repository:**
@@ -167,18 +170,6 @@ Interactive API documentation is available at `http://127.0.0.1:8000/docs` when 
 }
 ```
 
-## Deployment (Render/Railway)
-
-1. **Push your code to GitHub.**
-2. **Create a new web service on [Render](https://render.com/) or [Railway](https://railway.app/).**
-3. **Set environment variables:**
-   - `MONGODB_URI`: Your MongoDB Atlas connection string.
-4. **Build & Start Command:**
-   - `pip install -r requirements.txt`
-   - `uvicorn app.main:app --host 0.0.0.0 --port 10000`
-5. **Expose port 10000** (or as required by the platform).
-6. **Get your base URL** (e.g., `https://yourapp.onrender.com/`).
-7. **Submit the base URL as instructed.**
 
 ---
 
