@@ -3,7 +3,7 @@
 This is a FastAPI backend for a simple e-commerce application, built for the HROne Backend Intern Hiring Task. It provides APIs for managing products and orders, using MongoDB as the database.
 
 ## Link
-- http://35.223.135.62:8000
+- http://35.223.135.62
 
 ## Setup
 
