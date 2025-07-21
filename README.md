@@ -173,4 +173,3 @@ Interactive API documentation is available at `http://127.0.0.1:8000/docs` when 
 
 ---
 
-**For any questions, contact the HROne team.** 
