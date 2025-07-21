@@ -9,7 +9,7 @@ This is a FastAPI backend for a simple e-commerce application, built for the HRO
 
 1. **Clone the repository:**
    ```bash
-   git clone <your-repo-url>
+   git clone https://github.com/LabdhPurohit/HROne-Backend.git
    cd Backend
    ```
 2. **Install dependencies:**
